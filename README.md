@@ -30,11 +30,11 @@ A sleek and professional password generator desktop application built with Pytho
    
 ## Usage
 
--Select your desired password length.
--Choose which character sets to include.
--Click the Generate button to create a password.
--Click Copy to copy the generated password to your clipboard.
--Use the strength indicator to evaluate password security.
+1. Select your desired password length.
+2. Choose which character sets to include.
+3. Click the Generate button to create a password.
+4. Click Copy to copy the generated password to your clipboard.
+5. Use the strength indicator to evaluate password security.
 
 ## Technologies Used
 
@@ -52,5 +52,5 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 ## Author
 
-Created by Your Name — B0TxS
+Created by — B0TxS
 
