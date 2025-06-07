@@ -19,7 +19,7 @@ A sleek and professional password generator desktop application built with Pytho
 
 ## Screenshots
 
-Screenshot.PNG.
+*Screenshot.PNG.*
 
 
 ## Installation
