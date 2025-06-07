@@ -19,7 +19,8 @@ A sleek and professional password generator desktop application built with Pytho
 
 ## Screenshots
 
-*Images/screenshot1.png*
+![Screenshot](https://github.com/user-attachments/assets/f99c40ec-3311-41bd-8381-269589a8e789)
+
 
 
 ## Installation
